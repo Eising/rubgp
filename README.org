@@ -1,0 +1,3 @@
+#+TITLE: RUBGP - A ruby BGP implementation
+
+RUBGP is a BGP daemon written in Ruby with focus on easy extension. It is not meant for serious implementation.
